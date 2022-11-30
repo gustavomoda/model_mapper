@@ -1,0 +1,20 @@
+name: model_mapper
+description: Entity To DTO Conversion inspired in the project ModelMapper for java
+version: 0.0.1
+
+environment:
+  sdk: '>=2.18.4 <3.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+ 
+flutter:
+
+  
